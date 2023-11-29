@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=FlaskApp
+Exec=/path/to/start_flask_app.sh
+Icon=icon-path
+Terminal=true
